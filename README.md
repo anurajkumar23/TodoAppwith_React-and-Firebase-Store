@@ -5,6 +5,8 @@
 - Made with Firebase to store data
 - Sinup or Login to add personal data
 
+## To use the Todo-list, [click here.](https://todolist-datastore.netlify.app/)
+
 ## ScreenShots Below 👇
 - Sigup
 ![Signup-page](https://user-images.githubusercontent.com/102934270/204156559-90ce6240-b1bc-47ec-b7a1-5b4130ec85ca.jpg)
@@ -18,5 +20,5 @@
 ![Resposive](https://user-images.githubusercontent.com/102934270/204156681-0231774e-fa1f-4005-8f50-aa324515c4a9.jpg)
 
 
-To use the Todo-list, [click here.](https://todolist-datastore.netlify.app/)
+
 
