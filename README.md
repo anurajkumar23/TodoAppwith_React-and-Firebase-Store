@@ -14,7 +14,7 @@
 ![Homepage](https://user-images.githubusercontent.com/102934270/204156611-20a8496b-4c10-4aa4-b1c1-5518c1e3a314.jpg)
 - Update or Delete Data
 ![Update-data](https://user-images.githubusercontent.com/102934270/204156649-690f64f6-93cc-491d-9f68-545f248a7d9a.jpg)
--Resposive
+- Resposive
 ![Resposive](https://user-images.githubusercontent.com/102934270/204156681-0231774e-fa1f-4005-8f50-aa324515c4a9.jpg)
 
 
