@@ -3,7 +3,7 @@
 - This is the simple Todolist Where you can store data with password Secore
 - A simple, light and responsive UI
 - Made with Firebase to store data
-- Sinup or Login to add personal data
+- Signup or Login to add personal data
 
 ## To use the Todo-list, [click here.](https://todolist-datastore.netlify.app/)
 
